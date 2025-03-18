@@ -1,0 +1,14 @@
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\bin\Debug\net6.0\M2_Bonus_Ex5_v2.exe
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\bin\Debug\net6.0\M2_Bonus_Ex5_v2.deps.json
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\bin\Debug\net6.0\M2_Bonus_Ex5_v2.runtimeconfig.json
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\bin\Debug\net6.0\M2_Bonus_Ex5_v2.dll
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\bin\Debug\net6.0\M2_Bonus_Ex5_v2.pdb
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\obj\Debug\net6.0\M2_Bonus_Ex5_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\obj\Debug\net6.0\M2_Bonus_Ex5_v2.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\obj\Debug\net6.0\M2_Bonus_Ex5_v2.AssemblyInfo.cs
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\obj\Debug\net6.0\M2_Bonus_Ex5_v2.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\obj\Debug\net6.0\M2_Bonus_Ex5_v2.dll
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\obj\Debug\net6.0\refint\M2_Bonus_Ex5_v2.dll
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\obj\Debug\net6.0\M2_Bonus_Ex5_v2.pdb
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\obj\Debug\net6.0\M2_Bonus_Ex5_v2.genruntimeconfig.cache
+C:\Users\crist\Documents\IT\2023_09_C#\Bonus_12nov 23.59h\M2_Bonus_Ex5_v2\M2_Bonus_Ex5_v2\obj\Debug\net6.0\ref\M2_Bonus_Ex5_v2.dll
