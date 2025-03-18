@@ -1,4 +1,3 @@
-Vendomat
 Technologies used: Procedural programming in C#, Visual Studio.
 A vending machine (vendomat) that is loaded with different product categories. The
 machine processes sales orders, delivering products from the existing categories as
